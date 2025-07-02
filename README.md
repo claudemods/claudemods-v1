@@ -74,8 +74,8 @@ To Setup v2 Copy and paste what's below into pacman.conf 📋:
 ---
 
 [claudemods-v2] 🚀
-SigLevel = Never
-Server = https://github.com/claudemods/claudemods-v2/releases/download/v2/  
+- SigLevel = Never
+- Server = https://github.com/claudemods/claudemods-v2/releases/download/v2/  
 
 
 ---
