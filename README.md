@@ -35,6 +35,8 @@ To Setup v1 Copy and paste what's below into pacman.conf 📋:
 
 ---
 
+
+###
 [claudemods-v1]
 SigLevel = Never
 Server = https://github.com/claudemods/claudemods-v1/releases/download/v1/
@@ -42,7 +44,7 @@ Server = https://github.com/claudemods/claudemods-v1/releases/download/v1/
 
 ---
 
-
+###
 [claudemods-kernels-tested]
 SigLevel = Never
 Server = https://github.com/claudemods/claudemods-v1/releases/download/v1-kernels/
