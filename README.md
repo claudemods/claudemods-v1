@@ -7,7 +7,7 @@
 
 # 🚀 Official ClaudeMods V1 Repo 
 
-(Released 02-07-2025) - Currently Online 🟢
+(Released 02-07-2025) - Currently Offline 🟢
 
 This repo contains **unstable Kde desktop dev packages** 
 and over time will be slowly updated ⏳ with newer packages. 
@@ -36,7 +36,7 @@ To Setup v1 Copy and paste what's below into pacman.conf 📋:
 ---
  - [claudemods-kernels-tested] 🚀
 - SigLevel = Never
-- Server = https://github.com/claudemods/claudemods-v1/releases/download/v1/    
+- Server = https://github.com/claudemods/claudemods-v1/releases/tag/v1-kernels/    
 
 - [claudemods-v1] 🚀
 - SigLevel = Never
