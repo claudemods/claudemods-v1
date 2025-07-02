@@ -2,7 +2,7 @@
 
 This repository is based on the core system packages.
 
-## Current Package Versions
+## Current Package Versions 02-07-2025
 
 ### Kernels 🖥️
 - Linux: `6.15.4`
