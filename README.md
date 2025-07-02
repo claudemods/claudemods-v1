@@ -36,7 +36,7 @@ To Setup v1 Copy and paste what's below into pacman.conf 📋:
 ---
 
 
-[claudemods-v1] 🚀
+- [claudemods-v1] 🚀
 - SigLevel = Never
 - Server = https://github.com/claudemods/claudemods-v1/releases/download/v1/      
 
@@ -73,7 +73,7 @@ To Setup v2 Copy and paste what's below into pacman.conf 📋:
 
 ---
 
-[claudemods-v2] 🚀
+- [claudemods-v2] 🚀
 - SigLevel = Never
 - Server = https://github.com/claudemods/claudemods-v2/releases/download/v2/  
 
