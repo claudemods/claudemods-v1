@@ -34,7 +34,9 @@ this will contain a setup script to install claudemods minimal setup theme ect..
 To Setup v1 Copy and paste what's below into pacman.conf 📋:
 
 ---
-
+ - [claudemods-kernels-tested] 🚀
+- SigLevel = Never
+- Server = https://github.com/claudemods/claudemods-v1/releases/download/v1/    
 
 - [claudemods-v1] 🚀
 - SigLevel = Never
