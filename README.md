@@ -31,7 +31,7 @@ this will contain a setup script to install claudemods minimal setup theme ect..
    
 ---
 
-To Setup v1 Copy and paste what's below into your pacman.conf or download mine📋:
+To Setup v1 Copy and paste what's below into your pacman.conf or download mine "cachyos packages"📋:
 
 ---
 
@@ -76,7 +76,7 @@ For something more rolling 🌊, use v2 where packages come more often 📦
 and things break when you least expect it 💥. 
 
 
-To Setup v2 Copy and paste what's below into your pacman.conf or download mine 📋:
+To Setup v2 Copy and paste what's below into your pacman.conf or download mine "cachyos packages"📋:
 
 ---
 
