@@ -7,7 +7,7 @@
 
 # 🚀 Official ClaudeMods V1 Repo 
 
-(Released 02-07-2025) - Currently Online 🟢
+(Released 02-07-2025) - Currently Offline 🟢
 
 This repo contains **unstable Kde desktop dev packages** 
 and over time will be slowly updated ⏳ with newer packages. 
