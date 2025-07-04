@@ -39,8 +39,7 @@ To Setup v1 Copy and paste what's below into your pacman.conf or download mine "
 ```
 [claudemods-v1-kernels-tested]
 SigLevel = Never
-Server = https://github.com/claudemods/claudemods-v1/releases/download/v1-kernels-tested/
-
+Server = https://claudemodsreloaded.com/v1-kernels-tested
 ```
 
 ---
@@ -50,7 +49,7 @@ Server = https://github.com/claudemods/claudemods-v1/releases/download/v1-kernel
 
 [claudemods-v1-core]
 SigLevel = Never
-Server = https://github.com/claudemods/claudemods-v1/releases/download/v1-core/
+Server = https://claudemodsreloaded.com/v1-core/v1-core/
 
 
 ```
@@ -62,7 +61,7 @@ Server = https://github.com/claudemods/claudemods-v1/releases/download/v1-core/
 
 [claudemods-v1-base]
 SigLevel = Never
-Server = https://github.com/claudemods/claudemods-v1/releases/download/v1-base/
+Server = https://claudemodsreloaded.com/v1-base/
 
 
 ```
@@ -89,22 +88,22 @@ since v2-base doesnt contain the desktop packages this will keep the desktop sta
 
 [claudemods-v2-kernels-rolling]
 SigLevel = Never
-Server = https://github.com/claudemods/claudemods-v1/releases/download/v2-kernels-rolling/
+Server = https://claudemodsreloaded/v2-kernels-rolling/
 ```
 ```
 [claudemods-v1-base]
 SigLevel = Never
-Server = https://github.com/claudemods/claudemods-v1/releases/download/v1-base/
+Server = https://claudemodsreloaded.com/v1-base/
 `---
 [claudemods-v2-base]
 SigLevel = Never
-Server = https://github.com/claudemods/claudemods-v1/releases/download/v2-base/
+Server = https://claudemodsreloaded.com/v2-base/
 
 ```
 ```
 [claudemods-v2-core]
 SigLevel = Never
-Server = https://github.com/claudemods/claudemods-v1/releases/download/v2-core/
+Server = https://claudemodsreloaded.com/v2-core/
 ```
 ---
 
@@ -122,9 +121,9 @@ To Setup v2 Copy and paste what's below into your pacman.conf or download mine "
 ---
 
 ```
-[claudemods-v2] 🚀
+[claudemods-v2-base] 🚀
 SigLevel = Never
-Server = https://github.com/claudemods/claudemods-v2/releases/download/v2/  
+Server = https://claudemodsreloaded.com/v2-base/  
 ```
 
 ---
