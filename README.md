@@ -47,7 +47,7 @@ Server = https://github.com/claudemods/claudemods-v1/releases/download/v1/
 
 ```
 
-[claudemods-v1]
+[claudemods-v1-core]
 SigLevel = Never
 Server = https://github.com/claudemods/claudemods-v1/releases/download/v1-core/
 
@@ -58,7 +58,7 @@ Server = https://github.com/claudemods/claudemods-v1/releases/download/v1-core/
 
 
 ```
-[claudemods-kernels-tested]
+[claudemods--v1-kernels-tested]
 SigLevel = Never
 Server = https://github.com/claudemods/claudemods-v1/releases/download/v1-kernels-tested/
 ```
