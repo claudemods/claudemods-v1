@@ -36,6 +36,17 @@ To Setup v1 Copy and paste what's below into your pacman.conf or download mine "
 ---
 
 
+archive link for packages
+
+https://claudemodsreloaded.com/v1-kernels-tested/
+
+https://claudemodsreloaded.com/v1-core/
+
+https://claudemodsreloaded.com/v1-base/
+
+
+
+
 ```
 [claudemods-v1-kernels-tested]
 SigLevel = Never
@@ -82,6 +93,16 @@ another custom setup you could use is v1-base and v2-base with v2-kernels-rollin
 since v2-base doesnt contain the desktop packages this will keep the desktop stable but the system rolling  
 
 
+archive link for packages
+
+https://claudemodsreloaded.com/v2-kernels-rolling/
+
+https://claudemodsreloaded.com/v2-core/
+
+https://claudemodsreloaded.com/v1-base/
+
+https://claudemodsreloaded.com/v2-base/
+
 
 
 ```
@@ -90,6 +111,8 @@ since v2-base doesnt contain the desktop packages this will keep the desktop sta
 SigLevel = Never
 Server = https://claudemodsreloaded/v2-kernels-rolling/
 ```
+
+
 ```
 [claudemods-v1-base]
 SigLevel = Never
@@ -117,6 +140,20 @@ and things break when you least expect it 💥.
 
 
 To Setup v2 Copy and paste what's below into your pacman.conf or download mine "cachyos packages"📋:
+
+archive link for packages
+
+https://claudemodsreloaded.com/v2-kernels-rolling/
+
+https://claudemodsreloaded.com/v2-core/
+
+https://claudemodsreloaded.com/v2-base/
+
+https://claudemodsreloaded.com/v2-desktop/
+
+
+
+
 
 ---
 
