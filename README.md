@@ -87,7 +87,7 @@ since v2-base doesnt contain the desktop packages this will keep the desktop sta
 
 ```
 
-[claudemods-v2-base]
+[claudemods-v2-kernels-rolling]
 SigLevel = Never
 Server = https://github.com/claudemods/claudemods-v1/releases/download/v2-kernels-rolling/
 
@@ -103,18 +103,17 @@ Server = https://github.com/claudemods/claudemods-v1/releases/download/v2-kernel
 [claudemods-v1-base]
 SigLevel = Never
 Server = https://github.com/claudemods/claudemods-v1/releases/download/v1-base/
+`---
 
 
 
 
----
 
 
-
-```
 [claudemods-v2-base]
 SigLevel = Never
 Server = https://github.com/claudemods/claudemods-v1/releases/download/v2-base/
+
 ```
 
 
