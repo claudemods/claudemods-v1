@@ -110,22 +110,19 @@ Server = https://github.com/claudemods/claudemods-v1/releases/download/v1-base/
 ---
 
 
-```
 
+```
 [claudemods-v2-base]
 SigLevel = Never
 Server = https://github.com/claudemods/claudemods-v1/releases/download/v2-base/
+```
+
 
 
 ```
-
-```
-
 [claudemods-v2-core]
 SigLevel = Never
 Server = https://github.com/claudemods/claudemods-v1/releases/download/v2-core/
-
-
 ```
 
 
