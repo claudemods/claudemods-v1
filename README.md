@@ -40,9 +40,9 @@ archive link for packages
 
 https://claudemodsreloaded.com/v1-kernels-tested/
 
-https://claudemodsreloaded.com/v1-core/
+https://claudemodsreloaded.com/v1-coreextras/
 
-https://claudemodsreloaded.com/v1-base/
+https://claudemodsreloaded.com/v1-base+/
 
 
 
@@ -60,7 +60,7 @@ Server = https://claudemodsreloaded.com/v1-kernels-tested
 
 [claudemods-v1-core]
 SigLevel = Never
-Server = https://claudemodsreloaded.com/v1-core/v1-core/
+Server = https://claudemodsreloaded.com/v1-core/v1-coreextras/
 
 
 ```
@@ -72,7 +72,7 @@ Server = https://claudemodsreloaded.com/v1-core/v1-core/
 
 [claudemods-v1-base]
 SigLevel = Never
-Server = https://claudemodsreloaded.com/v1-base/
+Server = https://claudemodsreloaded.com/v1-base+/
 
 
 ```
