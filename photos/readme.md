@@ -1,4 +1,4 @@
-today i build plasma dev desktop from my repos and set of packages 
+today i built plasma dev desktop from my repos and set of packages the base repo link will be renamed shortly again as i need to test stable kde  
 
 the aim is to make a tty installer which has options 4 ext4 and btrfs i will be supplying the home directory for stable kde desktop and dev
 
