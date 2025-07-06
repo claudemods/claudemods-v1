@@ -8,6 +8,14 @@ from now on my isos will let you install the base as ext4 or btrfs then download
 
 for now my full setup installs fine from my latest repo packages im now going to fix my dev setup before making iso ect
 
+plain installs from packages also looks nice
+
+![Screenshot_archlinux-clone1_2025-07-06_21:35:30](https://github.com/user-attachments/assets/21a7c2ab-5640-4438-a0a2-ea8c3efe91ca)
+
+
+
+
+
 ![Screenshot_archlinux-clone1_2025-07-06_21:04:46](https://github.com/user-attachments/assets/b9bfa0f9-8e15-46dd-9de2-0758bb7a90ef)
 
 
