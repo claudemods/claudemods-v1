@@ -6,7 +6,7 @@ from now on my isos will let you install the base as ext4 or btrfs then download
 
 
 
-for now my full setup installs fine from my latest repo packages im not going to fix my dev setup before making iso ect
+for now my full setup installs fine from my latest repo packages im now going to fix my dev setup before making iso ect
 
 ![Screenshot_archlinux-clone1_2025-07-06_21:04:46](https://github.com/user-attachments/assets/b9bfa0f9-8e15-46dd-9de2-0758bb7a90ef)
 
